@@ -25,7 +25,7 @@ public class HelloJava {
 
 		
 		System.out.println("충돌2");
-		
+		System.out.println("충돌2");
 	}
 
 }
