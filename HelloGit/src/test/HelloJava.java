@@ -8,6 +8,10 @@ public class HelloJava {
 		
 		System.out.println("hello~ java~!");
 		
+		// branch 추가 내용	
+		System.out.println("Second Commit work");
+		
+		
 	}
 
 }
